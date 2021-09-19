@@ -1,0 +1,4 @@
+"./TestData/ExecuteActionTest/CorrectFileSensor.json", true, "Caso de prueba: RF05-V01, Nodos arbol: <1>,  Tipo de prueba: Valor normal para la gramatica y Tipo de prueba: Analisis estructural-Caminos basicos, Resultado esperado: True"
+"./TestData/ExecuteActionTest/CorrectFileActuator.json", true, "Caso de prueba: RF05-V02, Tipo de prueba: Analisis estructural-Caminos basicos,  Resultado esperado: True"
+"./TestData/ExecuteActionTest/CorrectFileCheckStateToActuator.json", true, "Caso de prueba: RF05-V03, Tipo de prueba: Analisis estructural-Caminos basicos,  Resultado esperado: True"
+"./TestData/ExecuteActionTest/CorrectFileCheckStateToSensor.json", true, "Caso de prueba: RF05-V04, Tipo de prueba: Analisis estructural-Caminos basicos,  Resultado esperado: True"

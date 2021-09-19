@@ -1,0 +1,2 @@
+"./TestData/RevokeTokenTest/CorrectFileFinal.json", "autonomous@vehicle.com", "Caso de prueba: RF04-V01, Nodos arbol: <1>,  Tipo de prueba: Valor normal para gramatica y Analisis estructural-Caminos basicos, Resultado esperado: Se recibe un email"
+"./TestData/RevokeTokenTest/CorrectFileTemporal.json", "autonomous@vehicle.com", "Caso de prueba: RF04-V02, Tipo de prueba: Analisis estructural-Caminos basicos,  Resultado esperado: Se recibe un email"
